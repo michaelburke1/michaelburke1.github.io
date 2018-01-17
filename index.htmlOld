@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- ===========================
+    THEME INFO
+    =========================== -->
+
+    <!-- ===========================
+    SITE TITLE
+    =========================== -->
+    <title>Michael Burke - Software Engineer</title>
+
+    <!-- ===========================
+    FAVICONS
+    =========================== -->
+    <link rel="icon" href="img/favicon.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="img/apple-touch-icon-ipad-retina.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-iphone-retina.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-ipad.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="img/apple-touch-icon-iphone.png" />
+
+    <!-- ===========================
+    STYLESHEETS
+    =========================== -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
+    <!-- ===========================
+    FONTS & ICONS
+    =========================== -->
+    <link href='https://fonts.googleapis.com/css?family=Kristi|Alegreya+Sans:300' rel='stylesheet' type='text/css'>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+    <div class="container">
+        <!-- ===========================
+        HEADER
+        ============================ -->
+        <div id="header" class="row">
+            <div class="col-sm-2">
+                <img class="propic" src="img/mburke.JPG" alt="">
+            </div>
+            <!-- photo end-->
+
+            <div class="col-sm-10">
+                <div class="cv-title">
+                    <div class="row">
+                        <div class="col-sm-7">
+                            <h1>Michael Burke</h1>
+                        </div>
+                        <div class="col-sm-5 text-right dl-share">
+                            <a class="btn btn-success" href="michaelburke_resume_fall17.pdf" download><span class="fa fa-download"></span>Download Resume</a>
+                        </div>
+                    </div>
+                    <h2>Software Engineer - Student at the University of Notre Dame</h2>
+                </div><!-- Title end-->
+
+                <!-- ===========================
+                SOCIAL & CONTACT
+                ============================ -->
+                <div class="row">
+                    <div class="col-sm-4">
+                        <ul class="list-unstyled">
+                            <li><a href=""><span class="social fa fa-phone"></span>985 237 0329</a>
+                            </li>
+                            <li><a href="mailto:michaeljburke18@gmail.com"><span class="social fa fa-envelope-o"></span>michaeljburke18@gmail.com</a>
+                            </li>
+                            <li><a href="mailto:mburke18@nd.edu"><span class="social fa fa-envelope-o"></span>mburke18@nd.edu</a>
+                            </li>
+                        </ul>
+                    </div><!-- social 1st col end-->
+
+                    <div class="col-sm-4">
+                        <ul class="list-unstyled" hidden>
+                            <li><a href=""><span class="social fa"></span></a>
+                            </li>
+                            <li><a href=""><span class="social fa"></span></a>
+                            </li>
+                            <li><a href=""><span class="social fa"></span></a>
+                            </li>
+                        </ul>
+                    </div><!-- social 2nd col end-->
+
+                    <div class="col-sm-4">
+                        <ul class="list-unstyled">
+                            <li><a href="https://www.facebook.com/michael.burke.7564"><span class="social fa fa-facebook"></span>Facebook</a>
+                            </li>
+                            <li hidden><a href=""><span class="social fa fa-twitter"></span></a>
+                            </li>
+                            <li><a href="https://www.linkedin.com/in/michaeljosephburke/"><span class="social fa fa-linkedin"></span>Linkedin</a>
+                            </li>
+                        </ul>
+                    </div><!-- social 3rd col end-->
+                </div><!-- header social end-->
+            </div><!-- header right end-->
+        </div><!-- header end-->
+
+        <hr class="firsthr">
+
+        <!-- ===========================
+        BODY LEFT PART
+        ============================ -->
+        <div class="col-md-8 mainleft">
+            <div id="statement" class="row mobmid">
+                <div class="col-sm-1">
+                    <span class="secicon fa fa-user"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11">
+                    <h3>Personal statement </h3>
+                    <p>
+                    	Hi, I am Michael from Mandeville, Louisiana. I am a rising senior at the University of Notre Dame, pursuing my bachelor's degree in Computer Science. From my past internships and projects, I have great experience with web and software development. This previous summer, I worked extensively with JavaScript, HTML, CSS, and SQL building a web based support manager. This management system tracked customer feedback and support tickets revolving around the functionality of Moresteam.com, a Columbus based e-Commerce company which I interned with for ten weeks. 
+                    </p>
+                    <p>
+                    	For my favorite project, I worked with a group of programmers building a command line based AI chess program written in C++. The program based its moves by recursively predicting its opponent's moves.
+                    </p>
+                    <p> 
+                    	I enjoy anything and everything related to Notre Dame, cryptocurrencies, sports, AI, web development, fitness, food, personal growth, freedom, and philosophy.
+                    </p>
+                </div><!--info end-->
+            </div><!--personal statement end-->
+
+            <hr>
+
+            <div id="education" class="row mobmid">
+                <div class="col-sm-1">
+                    <span class="secicon fa fa-graduation-cap"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11">
+                    <h3>Education </h3>
+                    <div class="row">
+                        <div class="col-md-9">
+                            <h4>BSE in Computer Science</h4>
+                            <p class="sub"><a href="">University of Notre Dame</a>
+                            </p>
+                            <ul>
+                            	<li>Concentration in Computer Security</li>
+                            	<li>Former resident of Duncan Hall</li>
+                                <li>Currently enrolled in Compilers, Web App Development, Databases, and Computer Networks</li>
+                                <li>Notable completed classes: Algorithms, Operating Systems, Data Structures, and Computer Security</li>
+                            </ul>
+                        </div>
+                        <div class="year col-md-3">
+                            <p>2014-2018</p>
+                        </div>
+                    </div><!--Education & Certification 1 end-->
+                </div>
+            </div><!--Education & Certifications end-->
+            
+            <hr>
+
+            <!-- ===========================
+            JOB EXPERIENCES
+            ============================ -->
+            <div id="job" class="row mobmid">
+                <div class="col-sm-1">
+                    <span class="secicon fa fa-briefcase"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11">
+                    <h3>Job Experiences</h3>
+
+                    <div class="row">
+                        <div class="col-md-9">
+                            <h4>Software Engineer - Web Developer</h4>
+                            <p class="sub"><a href="">Moresteam e-Learning LLC - Columbus, Ohio</a>
+                            </p>
+                            <p>
+	                            I was a member of the e-Learning team that manages every online course Moresteam offers. Over the span of the summer, I assisted in the team's total UI transformation of their online courses and worked on projects both internally and customer side. I heavily used JavaScript and Coldfusion on a daily basis. 
+	                            <br/>
+								I worked on a team that designed, developed, and deployed a web based internal support manager for Moresteam engineers to manage support tickets, site errors, and customer inquiries. 
+								<br/>
+								I redesigned and deployed a discussion forum for Moresteam customers where they can discuss topics regarding their course training.
+							</p>
+                        </div>
+
+                        <div class="year col-md-3">
+                            <p>May 2017 - August 2017</p>
+                        </div>
+                    </div><!--Job 1 end-->
+                    
+                    <hr>
+                    
+                    <div class="row">
+                        <div class="col-md-9">
+                            <h4>QA Automation Engineer</h4>
+                            <p class="sub"><a href="">Angie's List - Indianapolis, Indiana</a>
+                            </p>
+                            <p>
+                            	Worked in scrum teams developing end to end automation tests which integrate into the build and release process of Angie's List core web application. 
+	                            <br/>
+								Gained experience using Selenium WebDriver and Cucumber while building unit test suites. 
+								<br/>
+								Relied heavily on team communication and peer programming throughout testing development. Obtained experience of working in scrum teams within the Agile Development framework.
+							</p>
+                        </div>
+                        <div class="year col-md-3">
+                            <p>May 2016 - August 2016</p>
+                        </div>
+                    </div><!--Job 2 end-->
+                </div><!--Job experiences end-->
+            </div><!--Job experiences end-->
+        </div><!--left end-->
+        
+        <!-- ===========================
+        SIDEBAR
+        =========================== -->
+        <div class="col-md-4 mainright">
+            <div class="row">
+                <div class="col-sm-1 col-md-2 mobmid">
+                    <span class="secicon fa fa-magic"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11 col-md-10">
+                    <h3 class="mobmid">Technical skills </h3>
+
+                    <p>C++</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%">
+                            <span class="sr-only">85% Complete (success)</span>
+                        </div>
+                    </div><!--skill end-->
+
+
+                    <p>JavaScript (Ajax, jQuery, Bootstrap, Flot)</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%">
+                            <span class="sr-only">75% Complete</span>
+                        </div>
+                    </div><!--skill end-->
+
+                    <p>Python</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
+                            <span class="sr-only">50% Complete (danger)</span>
+                        </div>
+                    </div><!--skill end-->
+
+                    <p>HTML, CSS</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+                            <span class="sr-only">60% Complete (warning)</span>
+                        </div>
+                    </div><!--skill end-->   
+                    <p>ColdFusion</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+                            <span class="sr-only">40% Complete (success) </span>
+                        </div>
+                    </div><!--skill end-->                 
+                </div><!--info end-->
+            </div><!--tech skills end-->
+            
+            <hr>
+
+            <div class="row mobmid">
+                <div class="col-sm-1 col-md-2">
+                    <span class="secicon fa fa-folder-open"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11 col-md-10 ">
+                    <h3>Projects</h3>
+
+                    <div class="award">
+                        <h4>Chess AI</h4>
+                        <p class="sub"><a href="https://github.com/djasek12/chess_duel">chess_duel (github)</a></p>
+                        <p>
+                        	Created a command line based chess game pitting the user against a CPU opponent<br> 
+	                        Mastered the concepts of Object Oriented Programming with C++ using multiple classes implementations via composition and inheritance<br> 
+	                        Designed an AI algorithm from scratch based off of chess pieces’ points and recursively predicting the opponent’s next two moves 
+                        </p>
+                    </div>
+                    <div class="award">
+                        <h4>Terminal Messaging System</h4>
+                        <p class="sub"><a href="https://github.com/michaelburke1/termChat">termChat (github)</a></p>
+                        <p>
+                            Created a command line based messaging system over a single wifi network <br>
+                            Implemented message log system utilizing hash tables in C++ designed for quick lookup<br>
+                            Developed a reliable server within the python framework to quickly send and receive messages over the network 
+
+                        </p>
+                    </div>
+                </div><!--aprojects end-->
+
+            </div>
+            
+            <hr>
+
+            <div class="row ">
+                <div class="col-sm-1 col-md-2 mobmid">
+                    <span class="secicon fa fa-book"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11 col-md-10 testimonials">
+                    <h3 class="mobmid">Latest Books</h3>
+
+                    <div class="row">
+                        <h4><a href="https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042">Mastering Bitcoin: Unlocking Digital Cryptocurrencies</a></h4>
+                        <p>Andreas M. Antonopoulos</p>
+                    </div><!--1st testimonial end-->
+
+                    <div class="row">
+                        <h4><a href="https://www.amazon.com/Realm-Hungry-Ghosts-Encounters-Addiction/dp/155643880X">In the Realm of Hungry Ghosts: Close Encounters with Addiction</a></h4>
+                        <p>Gabor Mate</p>
+                    </div><!--2nd testimonial end-->
+                </div><!--testimonials end-->
+            </div><!--tech skills end-->
+        </div><!--right end-->
+    </div><!--container end-->
+
+    <!-- ===========================
+    FOOTER
+    =========================== -->
+    <footer class="text-center">
+        <p>&copy; <a href="http://creativecommons.org/licenses/by/3.0/">CC-3.0</a>, Just another CV template by <a href="https://evenfly.com">EvenFly </a> - Designed by <a target="_blank" href="http://www.facebook.com/towkirahmedbappy">Towkir Ahmed Bappy</a>.
+        </p>
+    </footer>
+
+    <!--necessary scripts and plugins-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <script src="js/jquery.nicescroll.min.js"></script>
+    <script src="js/evenfly.js"></script>
+</body>
+
+</html>
