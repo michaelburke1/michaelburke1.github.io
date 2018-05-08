@@ -429,3 +429,38 @@ body {
   color: white;
   background-image: url('../img/dragon_bg.jpg');
 }
+
+#services {
+  position: relative;
+  width: 100%;
+  min-height: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: white;
+  background-image: url('../img/protagenist_bg.jpg');
+
+}
+
+#gameplay {
+  position: relative;
+  width: 100%;
+  min-height: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: white;
+  background-image: url('../img/volcano_bg.jpg');
+
+}
+
+.text-muted {
+  color: black;
+
+}
