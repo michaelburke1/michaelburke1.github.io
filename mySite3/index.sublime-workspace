@@ -1,0 +1,545 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getIG"
+			],
+			[
+				"functo",
+				"functionCount"
+			],
+			[
+				"local",
+				"localCount"
+			],
+			[
+				"lo",
+				"localCount"
+			],
+			[
+				"incre",
+				"incrementLocalCount"
+			],
+			[
+				"incremn",
+				"incrementParamCount"
+			],
+			[
+				"Re",
+				"Register"
+			],
+			[
+				"TYPE_",
+				"TYPE_FUNCTION"
+			],
+			[
+				"para",
+				"paramCount"
+			],
+			[
+				"par",
+				"paramCount"
+			],
+			[
+				"SYMBOL",
+				"SYMBOL_GLOBAL"
+			],
+			[
+				"stmt",
+				"stmt_codegen"
+			],
+			[
+				"scra",
+				"scratch_name"
+			],
+			[
+				"re",
+				"registers"
+			],
+			[
+				"hash",
+				"hash_table_lookup"
+			],
+			[
+				"EXPR_ARRAY",
+				"EXPR_ARRAY_IDENT"
+			],
+			[
+				"expr_t",
+				"expr_typecheck"
+			],
+			[
+				"const",
+				"const_expr"
+			],
+			[
+				"EXPR_NOT",
+				"EXPR_NOT_EQUAL"
+			],
+			[
+				"increment",
+				"incrementErrors"
+			],
+			[
+				"cf",
+				"cfb_offensive_stats"
+			],
+			[
+				"cfb_",
+				"cfb_weekly_rankings"
+			],
+			[
+				"cfb_game",
+				"cfb_gameday"
+			],
+			[
+				"o_u",
+				"o_u_number"
+			],
+			[
+				"input",
+				"inputBuffer"
+			],
+			[
+				"data",
+				"dataset"
+			],
+			[
+				"play",
+				"play-pause"
+			],
+			[
+				"recv",
+				"recvBuffer"
+			],
+			[
+				"rec",
+				"recvBuffer1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "col",
+		"selected_items":
+		[
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colosub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/michaelburke/Desktop/HW2-data/untitled.py",
+		"/Users/michaelburke/Desktop/HW2-data/q1.py",
+		"/Users/michaelburke/Desktop/HW2-data/naiveBayes.py",
+		"/Users/michaelburke/Desktop/HW2-data/parse.py",
+		"/Users/michaelburke/typechec/compilers/parser2/symbol.h",
+		"/Users/michaelburke/typechec/compilers/parser2/decl.h",
+		"/Users/michaelburke/typechec/compilers/parser2/param_list.h",
+		"/Users/michaelburke/typechec/compilers/parser2/decl.c",
+		"/Users/michaelburke/typechec/compilers/parser2/parser.c",
+		"/Users/michaelburke/typechec/compilers/parser2/scanner.flex",
+		"/Users/michaelburke/typechec/compilers/parser2/main.c",
+		"/Users/michaelburke/typechec/compilers/parser2/stmt.h",
+		"/Users/michaelburke/typechec/compilers/parser2/symbol.c",
+		"/Users/michaelburke/typechec/compilers/parser2/type.h",
+		"/Users/michaelburke/typechec/compilers/parser2/parser.bison",
+		"/Users/michaelburke/typechec/compilers/parser2/expr.c",
+		"/Users/michaelburke/typechec/compilers/parser2/param_list.c",
+		"/Users/michaelburke/typechec/compilers/parser2/cminor",
+		"/Users/michaelburke/typechec/compilers/parser2/scanner.c",
+		"/Users/michaelburke/typechec/compilers/parser2/instructorTests/codegen/fibonnacci.cminor",
+		"/Users/michaelburke/typechec/compilers/parser2/instructorTests/codegen/good19.cminor",
+		"/Users/michaelburke/typechec/compilers/parser2/hash_table.c",
+		"/Users/michaelburke/typechec/compilers/parser2/instructorTests/codegen/gfx.c",
+		"/Users/michaelburke/typechec/compilers/parser2/instructorTests/codegen/gfx.h",
+		"/Users/michaelburke/typechec/compilers/parser2/expr.h",
+		"/Users/michaelburke/typechec/compilers/parser2/stmt.c",
+		"/Users/michaelburke/typechec/compilers/parser2/type.c",
+		"/Users/michaelburke/Downloads/bootstrap-sidebar/index.html",
+		"/Users/michaelburke/Desktop/abc.py",
+		"/Users/michaelburke/Desktop/untitled.c",
+		"/Users/michaelburke/Desktop/NotreDame/udpserver.c",
+		"/Users/michaelburke/Desktop/leygo/controller.html",
+		"/Users/michaelburke/Desktop/hw4-mburke18-redo/display.html",
+		"/Users/michaelburke/Desktop/hw4-mburke18-redo/controller.html",
+		"/Users/michaelburke/Desktop/leygo/display.html",
+		"/Users/michaelburke/Desktop/controller.html",
+		"/Users/michaelburke/Desktop/display.html",
+		"/Users/michaelburke/Desktop/chat/CSE40613-mburke18-HW3/index.html",
+		"/Users/michaelburke/Desktop/wtf.c",
+		"/Users/michaelburke/Desktop/hw3-webdev/test.html",
+		"/Users/michaelburke/Desktop/updclient.c",
+		"/Users/michaelburke/Desktop/chat/js/homepage.js",
+		"/Users/michaelburke/Desktop/chat/aboutus.html",
+		"/Users/michaelburke/Desktop/chat/whatwedo.html",
+		"/Users/michaelburke/Desktop/chat/contact.html",
+		"/Users/michaelburke/Desktop/chat/index.html",
+		"/Users/michaelburke/Desktop/cvstrap/index.html",
+		"/Users/michaelburke/Desktop/index.html",
+		"/Users/michaelburke/Downloads/cvstrap/index.html",
+		"/Users/michaelburke/site/michaelburke1.github.io/js/creative.min.js",
+		"/Users/michaelburke/site/michaelburke1.github.io/index.html",
+		"/Users/michaelburke/Downloads/startbootstrap-creative-gh-pages/css/creative.css",
+		"/Users/michaelburke/Downloads/startbootstrap-creative-gh-pages/index.html",
+		"/Users/michaelburke/Downloads/startbootstrap-agency-gh-pages/index.html",
+		"/Users/michaelburke/Downloads/startbootstrap-agency-gh-pages/css/agency.css",
+		"/Users/michaelburke/site/michaelburke1.github.io/css/cover.css",
+		"/Users/michaelburke/site/michaelburke1.github.io/contact.html",
+		"/Users/michaelburke/site/michaelburke1.github.io/bootstrap-3.3.7/docs/examples/cover/index.html",
+		"/Users/michaelburke/site/michaelburke1.github.io/bootstrap-3.3.7/docs/examples/cover/cover.css"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			".",
+			"",
+			"/Users/michaelburke/typechec/compilers/parser2",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"entry",
+			"categories",
+			"freq",
+			"print",
+			"log2",
+			"vic",
+			"freq",
+			"list_array",
+			"expr_list_array",
+			"type",
+			"type_array",
+			"%rdi",
+			"expr_name",
+			"expr_equal",
+			"array_element",
+			"(%%rbp)",
+			" , -",
+			", -",
+			"-%d",
+			"-$",
+			"-$%",
+			"expr_array_id",
+			"rax",
+			"array",
+			"array_elements",
+			"label_create",
+			"label_crea",
+			"L'",
+			"L\"",
+			".L",
+			"parser error:",
+			"syntax error",
+			"rbx",
+			"MOVQ \\%\\%rbx",
+			"MOVQ %%rbx",
+			"MOVQ %",
+			"\\tMOVQ %%rbx",
+			"MOVQ",
+			"call print_",
+			"call",
+			"MOVQ %s",
+			"%d",
+			"* 8",
+			"-%",
+			"-%%d",
+			"-%d",
+			"\"MOVQ -",
+			"MOVQ -",
+			"movq -",
+			"movq -q",
+			"-%d",
+			"CALL ",
+			"FOR:",
+			" MOV",
+			"\"   ",
+			".data",
+			"\"  ",
+			"\"   ",
+			"label_create",
+			"label_name",
+			"-%d",
+			",-",
+			"(%rbp)",
+			"\"MOVQ",
+			"param_list_create",
+			"findargu",
+			"nRegister",
+			"expr_string",
+			"expr_boolean",
+			"findargument",
+			"expr_integer",
+			"symbol_code(",
+			"arguments_s",
+			"arguments",
+			"get",
+			"getParams",
+			"h ",
+			" h",
+			"&c)",
+			"EXPR_NE:",
+			"arguments2",
+			"expr_func",
+			"_group",
+			"expr_not:",
+			"token_not",
+			"reloap_cont",
+			"expr_post",
+			"Expr_pre",
+			",scratch",
+			"Registerister",
+			" ,file",
+			",file",
+			"(file,",
+			"->reg",
+			"register_",
+			" call ",
+			"JE",
+			"je",
+			"jmp",
+			"pushq",
+			"popq",
+			"leaq",
+			"movq",
+			"increment",
+			"parameters_cont",
+			"pCount",
+			"register_",
+			"retorno",
+			"register",
+			"integer",
+			"(type_integer",
+			"integer",
+			"kind = ",
+			"array",
+			"cannot assign",
+			"expr_create_name",
+			"\"!=",
+			"expr_add",
+			"expr_mult",
+			" == ",
+			"expr_bool",
+			"expr_func",
+			"expr_string",
+			"expr_char",
+			"expr_integer",
+			"expr_name",
+			"\"!\"",
+			"expr_bool"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"options",
+			"fail",
+			"vic",
+			"\"\\t",
+			"nReg",
+			"symbol_codegen(",
+			"&nR)",
+			"argCount",
+			"loopCount",
+			", scratch",
+			"Register",
+			", file",
+			" ,file",
+			"(file, ",
+			"->Register",
+			"scratch_",
+			" CALL ",
+			"JE",
+			"JMP",
+			"PUSHQ",
+			"POPQ",
+			"LEAQ",
+			"MOVQ",
+			"pCount",
+			"parameters_cont",
+			"instruction",
+			"Register",
+			"order by",
+			"group by",
+			"GROUP BY",
+			" in ",
+			"from",
+			"distinct",
+			"DISTINC",
+			"select",
+			"where",
+			"and",
+			"return \"",
+			"  ",
+			" ",
+			"\",",
+			"\"",
+			"%token ",
+			"",
+			"\\n\");",
+			"",
+			"initMessage",
+			"initBuffer",
+			"#0C2340"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cover",
+				"css/cover.css"
+			],
+			[
+				"cover/",
+				"bootstrap-3.3.7/docs/examples/cover/index.html"
+			],
+			[
+				"ind",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
